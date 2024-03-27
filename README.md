@@ -1,4 +1,4 @@
-# golang-united-school-homework-7
+# Homework for practicing testing in Go
 
 The goal of this homework is to write tests in `students_test.go` file and achieve as much coverage as possible.
 
